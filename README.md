@@ -1,2 +1,2 @@
-# car-axle-database
-Database for car axle client
+# sad-spongebob-database
+Database for sad spongebob client
